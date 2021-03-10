@@ -14,7 +14,7 @@ class Convert extends StatelessWidget {
         onPressed: convertHandler,
         color: Colors.blue,
         textColor: Colors.white,
-        child: Text("Konversi Satuan"),
+        child: Text("Konversi"),
       ),
     );
   }
